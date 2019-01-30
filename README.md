@@ -1,2 +1,2 @@
 # GoldenShoe
-Shoe website to solve the solutions 
+Shoe website to solve the challenges they were facing
